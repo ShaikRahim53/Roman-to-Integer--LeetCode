@@ -48,5 +48,5 @@ Conditions i wrote?
    discussed above which leads to wrong output.
 
 
-    Yeah, my code mate!! that's how i solved. It took 2 Hrs 05 Minutes to write the above code. Ok, by solving more problems, i can reduce my time spending to code and increase speed. And also, the next step here after this is, i will solve this problem using "Hash Table" or "Hash Map" whatever it is to optimize the code and increase efficiency. I will update here when it's done. Bye bye coder!!!
+Yeah, my code mate!! that's how i solved. It took 2 Hrs 05 Minutes to write the above code. Ok, by solving more problems, i can reduce my time spending to code and increase speed. And also, the next step here after this is, i will solve this problem using "Hash Table" or "Hash Map" whatever it is to optimize the code and increase efficiency. I will update here when it's done. Bye bye coder!!!
 
